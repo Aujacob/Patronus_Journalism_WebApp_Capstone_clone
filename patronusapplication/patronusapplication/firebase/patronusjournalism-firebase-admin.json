@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "patronusjournalism",
+  "private_key_id": "9431f95c6f249462c5dcc794862cdb75ec398bb2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCf5qp4td8dSFG\nnmfKD/ASzATLdd55Svf6uocNOSyxju1/vVsqQzggEqJbPqFM8ZUcaOmNU43QhI2z\nggeF4PnYRfK3GmFh/JOOfF1cCe/0/sFoEL1bt+vs4uRuNmUgNJRod8Ck1CpXgf2H\nkF4XFh/aKjlW1XXf1xgzZaMyPEixaDiQya6T5W58n5udvL0qDm9k6Q6cxAWrj46P\nYFroYu4K2+BDt8PyGsxCUYJdAnjP3jMqjdDjCk3In2nvRgPqv1q/hVvLu8uEVpch\nu8JqSis88gxWI8/QrVWdi2g6PgTyqOfUkvfRed5Owr3mOn+EmZMf347akasAW4cX\nt5BO8GNRAgMBAAECggEAGG5vdt4Z+9X5vVVqC6l3WmEazBTtAnbukeXqz3gqW05t\nGmHmiPdDHlJA5y3FlLT26kfqaHiBpJr18sHHYKOLNsXIkIQFjgmsXlZUYtqTtAZp\nNIF/y7zda5bvo0F9b+9y4fGC9yF4hR/8wRHbI9LBYwXxSG1NXnX2IgSnHIkSh4gs\nGutJ7HxdcPnhARGs1mU5fzpAVBW0cDHzN8aBrLiM+oK7NN+fjorsq3im5B02PceK\nrGipL6YN2zYkIlYrWg7mkYsTfF1vbZl9AcU0NTolPB9yNY1C0oO1maiYZH/4g02d\nF31pLiJGarj0w4BCX90LQSlfhD2hN3hlOUT8Yo4Z/QKBgQDjjcxNKixCN+p+q2LK\nEBXm7JfPb8N7Mi679SQb0Tl64CHuT/mhpy+wPmvbyOOaL13bt43k9dcpHOJsMkjB\nNDjhgponnKw9ZPPJ6NiuPzjM7QtRaxRtwyOHjprq8NHfNSP6gPBuefyIhkItZg1K\ntCnd2aYEwq3qrgYl0PSaejN0TQKBgQDaz/Zpb2+tS6/F0lrC1B/j08o0laKqXhAS\n3Zm361y9D0rGDCDSt650m0ykIxBAK+DEii4XGGzaC3qWfwbFPoVllBhlG/4rpPlw\n5PL4Wpq/0RzCTclxCH3mHbxQgP1ZANk6IjKypyt4WQvFg9Zq+VTsBbeoCVDpW+pu\nPyDidMe9FQKBgQCGEeSeTku3VCSYLzhMXz/YR+uF746YRk/ctClrLlGUgPvc4kft\nI4joaU65NtpK3L+LFdHHZcU4Vulc4B+XncIps/5JenjMz28HtmX7/AnmS3+Qn+tw\nZDnJw46o/+xXe4LQNCn0nXDZq2jQQMFyE0ZbjMHRKja3/4Jlw4Bqh7dLPQKBgAGw\nfVyPCbOy0+aZGy5J6P0fU35YcWsTUthycY9j99FV3uPskAxQcr5fvJW/145HSHL8\nBiMTgzOjxwyGaoz3UJxaKl4Ne0bm/S4L9nxIZs14VdqCMz32LNKsBBozBMG9KfAy\n92U9uS4ysc6SmAM3bZps6OAZQlCq7wJu5lgZQrmJAoGBANAagVFSzgbcO/pWOmRV\nZ9iP2dXN87zP5+VzJfw/G8xVfrw6t+ng29ReoF5MWRtJQfsn8EedLy9h0bVMFWEL\nQnEoq9ymqr693yJTpghSWxt3eMvtvucubbucxm/Ez0WJoJ94KYurDFudAO/gb6TM\nPCdLjUUxMKnzRpFJtcS0Grty\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7dolg@patronusjournalism.iam.gserviceaccount.com",
+  "client_id": "106836307137156708071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7dolg%40patronusjournalism.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

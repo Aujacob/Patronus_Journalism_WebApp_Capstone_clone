@@ -1,0 +1,161 @@
+
+.find-creators-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Arial', sans-serif;
+}
+
+.find-creators-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.find-creators-title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.search-input {
+  margin-bottom: 20px;
+  width: 50%; 
+}
+
+.search-icon {
+  color: #ffffff;
+}
+
+.tags-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.tag-button {
+  background: none;
+  border: none;
+  color: #ffffff;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.tag-icon {
+  width: 20px; 
+  height: 20px; 
+  margin-right: 8px;
+}
+
+.tag-button:hover {
+  color: #4f4f4f;
+}
+
+.search-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.rounded-btn {
+  border-radius: 12px; }
+
+
+  .search-results-box {
+    width: 100%; 
+    max-height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+  }
+
+  .profile-photo {
+    width: 50px; /* Or any other size you prefer */
+    height: 50px; /* Maintain aspect ratio */
+    object-fit: cover; /* To make sure the image covers the area well */
+    border-radius: 50%; /* Circular images */
+    margin-right: 16px; /* Add some space between the image and the text */
+  }
+  
+  .user-card {
+    background-color: #262626; 
+    color: #ffffff;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px; 
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    border: 1px solid transparent; 
+  }
+  
+  .user-image {
+    flex-shrink: 0; /* Prevents the image from shrinking */
+  }
+  .user-info {
+    flex-grow: 1;
+  }
+  
+  .username {
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .user-details {
+    color: #aaaaaa; 
+    font-size: 0.875rem; 
+  }
+  
+  .user-card:hover {
+    background-color: #333333; 
+    border-color: #444444; 
+  }
+
+  .boxes {
+    margin-left: 300px;
+    margin-right: 300px;
+    min-width: 0px;
+    min-height: 0px;
+  }
+/* Hide the default scrollbar */
+.search-results-box::-webkit-scrollbar {
+  display: none;
+}
+
+/* Style for Firefox */
+.search-results-box {
+  scrollbar-width: none;
+}
+
+/* Custom scrollbar styles */
+.search-results-box {
+  overflow-y: auto;
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: #ccc transparent; 
+}
+
+/* For Webkit browsers (e.g., Chrome, Safari) */
+.search-results-box::-webkit-scrollbar {
+  width: 8px; 
+}
+
+/* Track */
+.search-results-box::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+/* Handle */
+.search-results-box::-webkit-scrollbar-thumb {
+  background-color: #ccc; 
+  border-radius: 4px; 
+}
+
+.search-results-box::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa; 
+}

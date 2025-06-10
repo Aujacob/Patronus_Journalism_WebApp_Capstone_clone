@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  server:
+    image: registry.gitlab.com/commento/:latest  # Replace with the desired Commento version
+    ports:
+      - 8080:8080  # Adjust port mapping if needed
+    environment:
+      COMMENTO_ORIGIN: http://commento.example.com:8080  # Adjust URL if testing locally
+      COMMENTO_PORT: 8080  # Adjust port if needed
+  # Database service and volume definitions removed (no comments will be stored until a replacement can be found)
+
+# Volumes section removed (no database volume needed)

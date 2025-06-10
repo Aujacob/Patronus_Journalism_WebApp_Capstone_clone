@@ -1,0 +1,11 @@
+.gradient-bg {
+  background: linear-gradient(160deg, #04296b 0%, #080623 50%);
+  /* Overlay gradient for watercolor effect */
+  background-image: linear-gradient(rgba0b2b31, rgba(6, 4, 24, 0.1));
+  /* Combine with existing background color */
+  background-blend-mode: overlay;
+  /* Text color */
+  color: white;
+  /* Transition */
+  transition: background-image 0.3s ease;
+}

@@ -1,0 +1,108 @@
+.member-notifications {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    margin: 20px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .member-notifications-container {
+    background-color: #121212; 
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    min-height: 100vh; 
+  }
+  
+  .member-notifications-header {
+    font-size: 25px;
+    color: #e0e0e0;
+    font-weight: 500; 
+    width: 100%; 
+    padding-left: 10px; 
+    box-sizing: border-box; 
+    margin-top: 0; 
+  }
+  
+  .member-notifications-section-title {
+    font-size: 18px; 
+    color: #e0e0e0;
+    font-weight: 500;
+    margin-left: 20px; 
+    padding-top: 10px; 
+  }
+
+  .member-notifications-list {
+    margin: 0;
+    padding: 0;
+  }
+
+.member-notification-item {
+    background-color: #262626;
+    color: #ffffff;
+    padding: 16px;
+    transition: background-color 0.3s;
+    border-radius: 8px; 
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    text-align: left;
+    border: none; 
+    width: 100%; 
+    cursor: pointer; 
+    display: block; 
+}
+
+.member-notification-item:last-child {
+    margin-bottom: 0; 
+}
+
+.member-notification-item:hover {
+    background-color: #333333; /* Dark hover background */
+}
+
+.member-notification-title {
+    flex-grow: 1;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400; 
+}
+
+.member-notification-timestamp {
+    font-size: 14px;
+    color: #8e8e93;
+  }
+
+.member-notification-image {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.no-notifications-message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.no-notifications-message p {
+  font-size: 24px;
+  text-align: center;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .member-notifications {
+        margin: 10px;
+    }
+
+    .member-notification-title {
+        font-size: 14px;
+    }
+
+    .member-notification-timestamp {
+        font-size: 12px;
+    }
+}

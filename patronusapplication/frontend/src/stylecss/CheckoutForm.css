@@ -1,0 +1,101 @@
+.checkout-container {
+  display: flex;
+  min-height: 100vh; 
+  background-color: #000; 
+}
+.checkout-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  width: 100%; 
+  min-height: 100vh; 
+  background-color: #1a1a1a; 
+  align-items: center; 
+  padding: 2rem;
+}
+  .payment-details {
+    padding: 2rem;
+    border-right: 2px solid #333; /* Separator line between form and summary */
+  }
+  
+  .order-summary {
+    padding: 2rem;
+  }
+  
+  .form-title,
+  .summary-title {
+    color: #fff;
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+  }
+  
+  input, .StripeElement {
+    width: calc(100% - 2rem); 
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #333;
+    border: 1px solid #666;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 1rem; 
+  }
+  
+  /* Style for the card element */
+  .StripeElement {
+    background: #333;
+    padding: 1rem;
+    font-size: 1rem; 
+  }
+  
+  .subscription-notice {
+    color: #aaa;
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+  }
+  
+  .submit-button {
+    width: calc(100% - 2rem); 
+    padding: 1rem;
+    background-color: #007aff; 
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .summary-item,
+  .summary-total {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin-bottom: 0.5rem;
+  }
+  
+  .summary-total {
+    font-weight: bold;
+  }
+
+  .error-message {
+    color: #fa755a; 
+    margin-top: 1rem; 
+    font-size: 0.875rem; 
+    text-align: center;
+  }
+  
+ 
+  @media (max-width: 768px) {
+    .checkout-form {
+      grid-template-columns: 1fr; 
+    }
+  
+    .payment-details,
+    .order-summary {
+      padding: 1rem;
+      border-right: none;
+    }
+  
+    .order-summary {
+      margin-top: 2rem;
+    }
+  }
+  
