@@ -10,7 +10,8 @@ Our answer was to create a full stack application that can allow readers to dire
 
 To ensure readers know they are reading the stories of real people, we included features like a Verification system: 
 
-![005418ff-f04a-4fb1-b741-4b348eacebc8](https://github.com/user-attachments/assets/c78ee325-9ba6-4a17-b936-68f679992b33)
+![43dc1f7a-9b4d-4ced-b313-6270bbb69341](https://github.com/user-attachments/assets/b437c637-423b-4eae-98d1-8800759d11ce)
+
 
 
 
