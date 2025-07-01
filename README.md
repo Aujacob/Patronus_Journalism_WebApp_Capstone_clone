@@ -17,7 +17,7 @@ To ensure readers know they are reading the stories of real people, we included 
 
 We rely on Google's Firebase web hosting services for double encryption so you know your data is safe.
 
-![image](https://github.com/user-attachments/assets/005418ff-f04a-4fb1-b741-4b348eacebc8)
+![005418ff-f04a-4fb1-b741-4b348eacebc8](https://github.com/user-attachments/assets/f2127817-cef1-4520-ae51-2de4cf2c3341)
 
 
 
