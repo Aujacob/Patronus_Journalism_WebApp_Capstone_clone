@@ -4,13 +4,15 @@ Our answer was to create a full stack application that can allow readers to dire
 
 
 
-![image](https://github.com/user-attachments/assets/5ea28f31-eb85-4b3f-87fa-9fe343b1c00d)
-![image](https://github.com/user-attachments/assets/06f2f886-35e3-4824-b994-a39f5ae29632)
+![5ea28f31-eb85-4b3f-87fa-9fe343b1c00d](https://github.com/user-attachments/assets/e4c0de7e-ae0d-42a2-8419-666a415a6171)
+
+![43dc1f7a-9b4d-4ced-b313-6270bbb69341](https://github.com/user-attachments/assets/b40a0f17-40da-4b78-9011-16b8482873c4)
+
 
 To ensure readers know they are reading the stories of real people, we included features like a Verification system: 
 
+![005418ff-f04a-4fb1-b741-4b348eacebc8](https://github.com/user-attachments/assets/c78ee325-9ba6-4a17-b936-68f679992b33)
 
-![image](https://github.com/user-attachments/assets/43dc1f7a-9b4d-4ced-b313-6270bbb69341)
 
 
 We rely on Google's Firebase web hosting services for double encryption so you know your data is safe.
