@@ -6,7 +6,6 @@ Our answer was to create a full stack application that can allow readers to dire
 
 ![5ea28f31-eb85-4b3f-87fa-9fe343b1c00d](https://github.com/user-attachments/assets/e4c0de7e-ae0d-42a2-8419-666a415a6171)
 
-![43dc1f7a-9b4d-4ced-b313-6270bbb69341](https://github.com/user-attachments/assets/b40a0f17-40da-4b78-9011-16b8482873c4)
 
 
 To ensure readers know they are reading the stories of real people, we included features like a Verification system: 
